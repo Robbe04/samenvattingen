@@ -1,10 +1,10 @@
-Deze Repository bevat (binnenkort) alle samenvattingen van Toegepaste Informatica - Jaar 1 - Semester 1
+Deze Repository bevat (binnenkort) alle samenvattingen van Toegepaste Informatica 
 
-Vakken: 
-    Web Development I, 
-    Object Oreënted Software Development, 
-    IT-Fundamentals, 
-    Computers Systems, 
-    Databases, 
-    Cybersecurity, 
-    Software Analasis, 
+ **Jaar 1 - Semsester 1**
+    * Web Development I, 
+    * Object Oreënted Software Development, 
+    * IT-Fundamentals, 
+    * Computers Systems, 
+    * Databases, 
+    * Cybersecurity, 
+    * Software Analasis, 
