@@ -1,5 +1,7 @@
 Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ 
 
+De samenvattingen worden elk weekend geüpdated (zaterdag- of zondagavond)  
+
  **Jaar 1 - Semsester 1**  
     &emsp;* Web Development I,   
     &emsp;* Object Oriënted Software Development I,   
