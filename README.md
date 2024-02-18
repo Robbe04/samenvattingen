@@ -3,7 +3,7 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_
 De samenvattingen worden elk weekend geüpdated (zaterdag- of zondagavond)  
 
  **Jaar 1 - Semsester 1**  
-    + Web Development I,   
+   - 1968\. A great year!,    
     &emsp;* Object Oriënted Software Development I,   
     &emsp;* IT-Fundamentals,   
     &emsp;* Computers Systems,   
