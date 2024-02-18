@@ -15,8 +15,6 @@
     &emsp;* Communication Lab,   
     &emsp;* Computers Networks I,   
     &emsp;* Business & Management,   
-    &emsp;* System Engeneering Lab,   
-    &emsp;* Software Development Project I,   
     &emsp;* Operating Systems   
 
 
