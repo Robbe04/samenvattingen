@@ -1,4 +1,4 @@
-Deze Repository bevat alle samenvattingen van #_Toegepaste Informatica_
+Deze Repository bevat alle samenvattingen van H1_Toegepaste Informatica_H1
 
  ##**Jaar 1 - Semsester 1**##
     &emsp;* Web Development I,   
