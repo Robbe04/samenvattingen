@@ -1,6 +1,6 @@
 Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ 
 
-De samenvattingen worden elk weekend geüpdated (zaterdag- of zondagavond)  
+De samenvattingen worden elk weekend geüpdatet (zaterdag- of zondagavond)  
 
  **Jaar 1 - Semsester 1**  
  - Web Development,  
