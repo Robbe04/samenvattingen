@@ -28,4 +28,10 @@ De samenvattingen worden elk weekend geüpdatet (zaterdag- of zondagavond)
 // /var/www/html   
 bestanden voor apache2 hostserver
 
+// https maken van apache2
+
+// handige apps
+sudo apt install fail2ban
+sudo apt install apache2
+sudo apt install hydra
     
