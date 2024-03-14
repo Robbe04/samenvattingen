@@ -19,19 +19,3 @@ De samenvattingen worden elk weekend geüpdatet (zaterdag- of zondagavond)
  - Business & Management,   
  - Operating Systems   
 
-// wachtwoord ophalen via hydra  
-`cd Documents; hydra -l osboxes -P wordlist.txt ssh://192.168.56.20 - V`
-
-// whitelisten IP indien gebanned  
-`sudo fail2ban-client set sshd unbanip 192.168.56.20 || sudo fail2ban-client set ssdh unbanip 192.168.56.20`
-
-// /var/www/html   
-bestanden voor apache2 hostserver
-
-// https maken van apache2
-
-// handige apps
-sudo apt install fail2ban
-sudo apt install apache2
-sudo apt install hydra
-    
