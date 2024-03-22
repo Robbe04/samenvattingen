@@ -17,7 +17,8 @@ De samenvattingen worden elk weekend geüpdatet (zaterdag- of zondagavond)
  - Communication Lab,   
  - Computers Networks I,   
  - Business & Management,   
- - Operating Systems   
+ - Operating Systems
+
 | Resourcegroep                    | SELab              |
 |----------------------------------|--------------------|
 | Naam databankserver              | selwordpress       | 
