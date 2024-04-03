@@ -1,8 +1,6 @@
-[Over mij](https://robbe04.github.io/portfolio/)
+[Over mij](https://robbe04.github.io/portfolio/) (nog in development)
 
 Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ 
-
-De samenvattingen worden elk weekend geüpdatet (zaterdag- of zondagavond)  
 
  **Jaar 1 - Semsester 1**  
  - Web Development,  
