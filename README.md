@@ -11,7 +11,7 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_
  - Cybersecurity,   
  - Software Analasis
     
- **Jaar 1 - Semsester 2**  
+ # **[Jaar 1 - Semsester 2](https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_2_2023_2024)**  
  - Web Development II,   
  - Object Oriënted Software Development II,   
  - Communication Lab,   
