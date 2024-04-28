@@ -1,4 +1,4 @@
-[Over mij](https://robbe04.github.io/portfolio/) (nog in development)
+# **[Over mij](https://robbe04.github.io/portfolio/)**
 
 Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ 
 
