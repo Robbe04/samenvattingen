@@ -1,6 +1,6 @@
-# **[Over mij](https://robbe04.github.io/portfolio/)**
+Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoonlijke projecten daar rond
 
-Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ 
+# **[Over mij](https://robbe04.github.io/portfolio/)**
 
  # **[Jaar 1 - Semsester 1](https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_1_2023_2024)**  
  - Web Development,  
