@@ -3,10 +3,12 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoo
 # **[Over mij](https://robbe04.github.io/portfolio/)**
 Dit is mijn portfolio voor github
 Wanneer je naar `home` gaat ga je ook een ander project zien om te leren werken met `JavaScript` op een zelfstandige manier
-Voorlopig ben ik bezig aan een kleine versie van `Coockie Clicker`, maar dan met een banaan genaamd `Banana Clicker`
-### Komt binnenkort uit!
+Voorlopig ben ik bezig aan een kleine versie van `Coockie Clicker`, maar dan met een banaan genaamd:
+### `Banana Clicker` - Binnenkort uit
 
 # **[Andere](https://github.com/Robbe04/samenvattingen/tree/main/Andere)**
+Dit zal een tak zijn vol met persoonlijke zaken dat niks te maken hebben met schoolvakken
+Het eerste project is een vbs-cursus
 
  # **[Jaar 1 - Semsester 1](https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_1_2023_2024)**  
  - Web Development,  
