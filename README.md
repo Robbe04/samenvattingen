@@ -1,4 +1,5 @@
-Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoonlijke projecten daar rond
+# Inleiding
+Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoonlijke projecten daar rond.
 
 # **[Over mij](https://robbe04.github.io/portfolio/)**
 * Dit is mijn portfolio voor github
