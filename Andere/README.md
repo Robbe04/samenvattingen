@@ -7,7 +7,7 @@ Je kan dus bv. cmd openen waarin automatisch een bepaald commando wordt gestart 
 
 Het **basisonderdeel** van deze cursus is klaar, maar er komt nog een uitbreiding aan! Wegens de examen zal dit wel wat langer duren aangezien ik minder tijd ga hebben. 
 ### Probeer vbs eens uit!
-Probeer deze starterscode eens uit als inzicht wat vbs is: 
+Probeer deze starterscode eens als inzicht van wat vbs is: 
 ``` vbs
     ' Het maken van een map in de Documents-map genaamd "Test_vbs"
     Dim wshShell
