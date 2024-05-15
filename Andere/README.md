@@ -1,5 +1,5 @@
 # Welkom bij de **Andere** sectie van mijn samenvattingbranche
-In deze tak worden andere persoonlijke/handige dingen online gezet wat ofwel: **wel**, **niet** of **deels** te maken heeft.
+In deze tak worden andere persoonlijke/handige dingen online gezet wat ofwel: **wel**, **niet** of **deels** te maken heeft met vakken van school.
 
 #  [Vbs-bestanden](https://github.com/Robbe04/samenvattingen/edit/main/Andere/README.md)
 Het allereerste Andere onderwerp zijn vbs-bestanden. Hiermee kan je allerlei handige scriptjes bouwen om zo bv. een aantal vensters open te doen op een bepaalde locatie. 
