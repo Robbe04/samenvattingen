@@ -4,7 +4,7 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoo
 * Dit is mijn portfolio voor github
 * Wanneer je naar `home` gaat ga je ook een ander project zien om te leren werken met `JavaScript` op een zelfstandige manier
 * Voorlopig ben ik bezig aan een 2d-versie van een knight game dat tegen iemand vecht dat net zijn dorp heeft vernietigd. Deze game/website focust zowel op actionEvents als oefenen op opmaak
-    * ### `Banana Clicker` - Binnenkort uit
+    * ### `Revengen Of The Knight` - In Development
 
 # **[Andere](https://github.com/Robbe04/samenvattingen/tree/main/Andere)**
 * Dit zal een tak zijn vol met persoonlijke zaken dat niks te maken hebben met schoolvakken
