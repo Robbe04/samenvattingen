@@ -34,7 +34,7 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoo
  - Business & Management,   
  - Operating Systems
 
-# **(Jaar 2 - Semester 1 Development)[https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_1_2024_2025]**
+# **[Jaar 2 - Semester 1 Development]([https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_1_2024_2025)**
 - Classic Computer Science Algorithms
 - Costing
 - Cursus Advanced Software Development
