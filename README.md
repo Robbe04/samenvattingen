@@ -4,9 +4,8 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoo
 # **[Over mij](https://robbe04.github.io/)**
 * Dit is mijn persoonlijk en github-portfolio
 
-# **[Andere](https://github.com/Robbe04/samenvattingen/tree/main/Andere)**
-* Dit zal een tak zijn vol met persoonlijke zaken dat niks te maken hebben met schoolvakken
-* Het eerste project is een vbs-cursus
+# **[MusicAlert](https://robbe04.github.io/musicalert)**
+* Mis nooit notificaties van je nieuwe favoriete via de MusicAlert app
 
 # **[React Template](https://github.com/Robbe04/react-template)**
 * Deze repository bevat een volledig klaargestoomde react-template met de volgende features:
@@ -16,6 +15,10 @@ Deze Repository bevat alle samenvattingen van _Toegepaste Informatica_ en persoo
    * Cursus om dit vanaf 0 te maken
 * Suggestie of een bug?
    * Stuur een mailtje naar: **robbe.magerman@student.hogent.be**
+
+# **[Andere](https://github.com/Robbe04/samenvattingen/tree/main/Andere)**
+* Dit zal een tak zijn vol met persoonlijke zaken dat niks te maken hebben met schoolvakken
+* Het eerste project is een vbs-cursus
 
  # **[Jaar 1 - Semsester 1](https://github.com/Robbe04/samenvattingen/tree/main/Samenvattingen_Semester_1_2023_2024)**  
  - Web Development,  
